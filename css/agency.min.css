@@ -621,15 +621,7 @@ section#services {
 }
 section#contact {
 background-color: #f8f9fa;
-    /* background-image: url(../img/closer.jpg);
-    background-repeat: no-repeat;
-    background-position: center
-    background-attachment: scroll;
-    background-position: center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover */
+
 }
 .contact {
   font-size: 18px;
